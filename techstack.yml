@@ -1,7 +1,8 @@
 repo_name: rashil-gopee/Captcha-Deeplearning
 report_id: 0135630a3fe8e718b1affc8ba717faf7
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T08:22:07+00:00'
+timestamp: '2024-01-05T08:57:06+00:00'
 requested_by: rashil-gopee
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/rashil-gopee/Captcha-Deeplearning
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/rashil-gopee/Captcha-Deeplearning
   detection_source: Repo Metadata
